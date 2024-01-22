@@ -1,3 +1,4 @@
 # Jump-to-Python
 
-01. chapter 2 answer
+1. Chapter 2 answer
+2. Chapter 3 answer
